@@ -1,3 +1,9 @@
+# Testing Firebase 
+
+Test if the login is correct!
+
+Testing account creation with security checks, for example if the email is spelled correctly!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
